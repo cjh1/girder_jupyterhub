@@ -1,4 +1,4 @@
-Depreciated - Moved to http://github.com/girder/girder_jupyterhub
+Deprecated - Moved to http://github.com/girder/girder_jupyterhub
 =================================================================
 
 girder_jupyterhub
